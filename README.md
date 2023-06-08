@@ -8,3 +8,4 @@ Intro_NumPy (directory)
 * 00.ipynb
   > Element-wise operations, Universal functions, Multi-dimensional arrays, Slicing, Creating arrays with fast way
 * 01.ipynb
+  > Fancy indexing, axis concept, Flattened indices and coordinate indices
