@@ -16,4 +16,5 @@ Intro_NumPy (directory)
 ## Pandas
 Data in this course from [here(2019 survey)](https://insights.stackoverflow.com/survey)
 * 00.ipynb
-> loading csv, shape, head()/tail()
+> loading csv, shape, head()/tail()  
+> Convert dict into DataFrame, Accessing columns, Accessing rows (iloc, loc), Using slicing in iloc/loc
