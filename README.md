@@ -18,3 +18,8 @@ Data in this course from [here(2019 survey)](https://insights.stackoverflow.com/
 * 00.ipynb
 > loading csv, shape, head()/tail()  
 > Convert dict into DataFrame, Accessing columns, Accessing rows (iloc, loc), Using slicing in iloc/loc
+
+* 01.ipynb
+> Setting index, Setting index while load it, Sorting index alphabetically, Filter, Filting string
+
+* 02.ipynb
