@@ -23,3 +23,4 @@ Data in this course from [here(2019 survey)](https://insights.stackoverflow.com/
 > Setting index, Setting index while load it, Sorting index alphabetically, Filter, Filting string
 
 * 02.ipynb
+> Update column name, Update values, How to use 'apply/applymap/map/replace'
