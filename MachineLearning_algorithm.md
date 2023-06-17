@@ -6,9 +6,11 @@ Command+Shift+v open view window in VScode
 ### **General Conception**
 > Loan credit limit is associated with age($x_1$) and income($x_2$). The coefficient of age is $\theta_1$, for income is $\theta_2$.
 
-Fitting plane: $h_\theta(x)=\theta_0+\theta_1x_1+\theta_2x_2$
+Fitting plane:  
+$$h_\theta(x)=\theta_0+\theta_1x_1+\theta_2x_2$$
 
-Multi variables: $h_\theta(x)=\sum^n_{i=0}\theta_ix_i=\theta^Tx$
+Multi variables:  
+$$h_\theta(x)=\sum^n_{i=0}\theta_ix_i=\theta^Tx$$
 
 ### **Error**
 The difference between the actual values and the predicted values: $\varepsilon$
@@ -54,6 +56,6 @@ $$\frac{\partial J(\theta)}{\partial \theta_j}=-\frac{1}{m}\sum^m_{i=1}(y^{(i)}-
 **Stochastic Gradient Descent**  
 >Using one sample stochastically for each descent step  
 
-**Mini Batch Gradient Descent**
+**Mini Batch Gradient Descent**  
 $$\theta_j=\theta_j-\alpha\frac{1}{10}\sum^{i+9}_{k=i}(y^{(k)}-h_{\theta}(x^{(k)}))x_j^{k}$$
 >Using 10 sample for each descent step.
