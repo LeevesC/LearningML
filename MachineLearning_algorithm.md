@@ -57,5 +57,5 @@ $$\frac{\partial J(\theta)}{\partial \theta_j}=-\frac{1}{m}\sum^m_{i=1}(y^{(i)}-
 >Using one sample stochastically for each descent step  
 
 **Mini Batch Gradient Descent**  
-$$\theta_j=\theta_j-\alpha\frac{1}{10}\sum^{i+9}_{k=i}(y^{(k)}-h_{\theta}(x^{(k)}))x_j^{k}$$
+$$\theta_j=\theta_j-\alpha\frac{1}{10}\sum^{i+9}_{k=i}(y^{(k)}-h_{\theta}(x^{(k)}))x_j^{k}$$  
 >Using 10 sample for each descent step.
