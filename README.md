@@ -23,4 +23,7 @@ Data in this course from [here(2019 survey)](https://insights.stackoverflow.com/
 > Setting index, Setting index while load it, Sorting index alphabetically, Filter, Filting string
 
 * 02.ipynb
-> Update column name, Update values, How to use 'apply/applymap/map/replace'
+> Update column name, Update values, How to use 'apply/applymap/map/replace'  
+
+* 03.ipynb
+> Adding columns, Remove columns, Break down one column into two columns, Adding rows, Adding one dataframe to another, Remove rows with condition, 
