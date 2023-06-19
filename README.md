@@ -26,4 +26,4 @@ Data in this course from [here(2019 survey)](https://insights.stackoverflow.com/
 > Update column name, Update values, How to use 'apply/applymap/map/replace'  
 
 * 03.ipynb
-> Adding columns, Remove columns, Break down one column into two columns, Adding rows, Adding one dataframe to another, Remove rows with condition, 
+> Adding columns, Remove columns, Break down one column into two columns, Adding rows, Adding one dataframe to another, Remove rows with condition, Sorting rows by a column value, Sorting rows by multiple column values with different order, Sorting a Series, 
