@@ -32,4 +32,8 @@ Data in this course from [here(2019 survey)](https://insights.stackoverflow.com/
 > Check information into a column, Percentages of each values in a nonnumerical column, Check the social media distribution among each country, Check the median/mean/max income values for each country, Find out how many people using Python during their work, Using group to do this above, Concatenation of multiple Series, Get the percentage of Python user for each country  
 
 * 05.ipynb
-> Cleaning rows contain None data for any feature, Cleaning rows contain None data for all feature, Cleaning rows with specific feature is None, Dealing with costumized missing data, Casting data type, 
+> Cleaning rows contain None data for any feature, Cleaning rows contain None data for all feature, Cleaning rows with specific feature is None, Dealing with costumized missing data, Casting data type  
+
+* 06.ipynb
+> Parsing date-info into datetime type, Parsing date-info into datetime type when open the csv, Adding a new column of 'day of week', Get max 'High' value for each day, Resample & aggregation  
+
