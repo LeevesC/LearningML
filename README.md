@@ -26,4 +26,10 @@ Data in this course from [here(2019 survey)](https://insights.stackoverflow.com/
 > Update column name, Update values, How to use 'apply/applymap/map/replace'  
 
 * 03.ipynb
-> Adding columns, Remove columns, Break down one column into two columns, Adding rows, Adding one dataframe to another, Remove rows with condition, Sorting rows by a column value, Sorting rows by multiple column values with different order, Sorting a Series, 
+> Adding columns, Remove columns, Break down one column into two columns, Adding rows, Adding one dataframe to another, Remove rows with condition, Sorting rows by a column value, Sorting rows by multiple column values with different order, Sorting a Series.  
+
+* 04.ipynb
+> Check information into a column, Percentages of each values in a nonnumerical column, Check the social media distribution among each country, Check the median/mean/max income values for each country, Find out how many people using Python during their work, Using group to do this above, Concatenation of multiple Series, Get the percentage of Python user for each country  
+
+* 05.ipynb
+> Cleaning rows contain None data for any feature, Cleaning rows contain None data for all feature, Cleaning rows with specific feature is None, Dealing with costumized missing data, Casting data type, 
