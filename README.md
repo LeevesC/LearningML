@@ -37,3 +37,5 @@ Data in this course from [here(2019 survey)](https://insights.stackoverflow.com/
 * 06.ipynb
 > Parsing date-info into datetime type, Parsing date-info into datetime type when open the csv, Adding a new column of 'day of week', Get max 'High' value for each day, Resample & aggregation  
 
+* 07.ipynb
+> Creating a new csv data, Creating new JSON data readable
