@@ -38,4 +38,9 @@ Data in this course from [here(2019 survey)](https://insights.stackoverflow.com/
 > Parsing date-info into datetime type, Parsing date-info into datetime type when open the csv, Adding a new column of 'day of week', Get max 'High' value for each day, Resample & aggregation  
 
 * 07.ipynb
-> Creating a new csv data, Creating new JSON data readable
+> Creating a new csv data, Creating new JSON data readable  
+
+## Matplotlib
+Video from [here](https://www.youtube.com/watch?v=UO98lJQ3QGI&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_&index=1&t=374s)  
+* 01.ipynb
+> Creating a simple plot with (x,y), Adding labels and title, Identifying multi-plots in one chart, Formatting plot, Applying available styles, 
