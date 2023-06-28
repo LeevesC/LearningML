@@ -44,4 +44,6 @@ Data in this course from [here(2019 survey)](https://insights.stackoverflow.com/
 Video from [here](https://www.youtube.com/watch?v=UO98lJQ3QGI&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_&index=1&t=374s)  
 * 01.ipynb
 > Creating a simple plot with (x,y), Adding labels and title, Identifying multi-plots in one chart, Formatting plot, Applying available styles  
-> Creating bar chart with one value, Creating bar chart with multi-values, Creating bar chart from csv file without pandas, Creating bar chart from csv within pandas, 
+> Creating bar chart with one value, Creating bar chart with multi-values, Creating bar chart from csv file without pandas, Creating bar chart from csv within pandas,   
+* 02.ipynb
+> Creating a simple pie chart, Highlight a chunk, Adding percentage for a pie chart, Creating a simple stack chart, 
