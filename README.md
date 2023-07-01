@@ -46,4 +46,6 @@ Video from [here](https://www.youtube.com/watch?v=UO98lJQ3QGI&list=PL-osiE80TeTv
 > Creating a simple plot with (x,y), Adding labels and title, Identifying multi-plots in one chart, Formatting plot, Applying available styles  
 > Creating bar chart with one value, Creating bar chart with multi-values, Creating bar chart from csv file without pandas, Creating bar chart from csv within pandas,   
 * 02.ipynb
-> Creating a simple pie chart, Highlight a chunk, Adding percentage for a pie chart, Creating a simple stack chart, 
+> Creating a simple pie chart, Highlight a chunk, Adding percentage for a pie chart, Creating a simple stack chart,   
+* 03.ipynb
+> Creating a line plot and filling area with transparence, Adding horizontal line cut the filling area, Filling the area that between two lines, Creating Histograms using integer as bins, Creating Histograms using list as bins, Creating Histograms using log operation, 
