@@ -48,4 +48,6 @@ Video from [here](https://www.youtube.com/watch?v=UO98lJQ3QGI&list=PL-osiE80TeTv
 * 02.ipynb
 > Creating a simple pie chart, Highlight a chunk, Adding percentage for a pie chart, Creating a simple stack chart,   
 * 03.ipynb
-> Creating a line plot and filling area with transparence, Adding horizontal line cut the filling area, Filling the area that between two lines, Creating Histograms using integer as bins, Creating Histograms using list as bins, Creating Histograms using log operation, 
+> Creating a line plot and filling area with transparence, Adding horizontal line cut the filling area, Filling the area that between two lines, Creating Histograms using integer as bins, Creating Histograms using list as bins, Creating Histograms using log operation,  
+* 04.ipynb  
+> Creating a simple scatter, Creating a simple Time plot, 
